@@ -1,0 +1,67 @@
+{
+  "accountPage": {
+    "title": "Konto"
+  },
+  "apiPage": {
+    "title": "Api Schlussel"
+  },
+  "billingPage": {
+    "title": "Rechnungen"
+  },
+  "settingsPage": {
+    "title": "Einstellungen"
+  },
+  "userManagementPage": {
+    "title": "Benutzer Managment"
+  },
+  "whiteLabelPage": {
+    "title": "White Label"
+  },
+  "userForm": {
+    "information": "Information",
+    "customerId": "KUNDE ID",
+    "signupDate": "ANMELDEDATUM",
+    "account": "KONTO",
+    "loginEmail": "LOGIN EMAIL",
+    "primaryContact": "Primäre Kontaktinformationen",
+    "primaryContactMessage": "Bitte geben Sie unten Ihre Kontaktinformationen an.",
+    "firstName": "Vorname",
+    "lastName": "Nachname",
+    "phoneNumber": "Telefonnummer",
+    "company": "Firma",
+    "street": "Strasse",
+    "city": "Stadt",
+    "zip": "Postzeil",
+    "country": "Land",
+    "website": "Webseite",
+    "validation": {
+      "firstNameRequired": "Vorname ist erforderlich!",
+      "lastNameRequired": "Nachname ist erforderlich!",
+      "phoneRequired": "Telefonnummer ist erforderlich!",
+      "companyRequired": "Firmenname ist erforderlich!",
+      "streetRequired": "Straßenname ist erforderlich!",
+      "cityRequired": "Stadtname ist erforderlich!",
+      "zipRequired": "Postleitzahl ist erforderlich!",
+      "countryRequired": "Ländername ist erforderlich!",
+      "websiteRequired": "Website-Adresse ist erforderlich!"
+    }
+  },
+  "userTypeForm": {
+    "title": "Wer bist du?",
+    "description": "Für die bestmögliche Erfahrung, lassen Sie es uns wissen, wer Sie sind."
+  },
+  "userUsageForm": {
+    "scans": "SCANS",
+    "dynamicCodes": "DYNAMISCHE CODES",
+    "staticCodes": "STATISCHE CODES",
+    "users": "BENUTZER",
+    "unlimited": "Unbegrenzt",
+    "upgrade": "ERWEITERN",
+    "usage": "Verbrauch"
+  },
+  "emailChange": "Email andern",
+  "edit": "Bearbeiten",
+  "password": "Kennwort",
+  "save": "Speichern",
+  "usageTitle": "Usage"
+}

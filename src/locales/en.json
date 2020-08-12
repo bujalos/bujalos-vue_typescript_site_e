@@ -1,0 +1,67 @@
+{
+  "accountPage": {
+    "title": "Account"
+  },
+  "apiPage": {
+    "title": "Api Keys"
+  },
+  "billingPage": {
+    "title": "Billing"
+  },
+  "settingsPage": {
+    "title": "Settings"
+  },
+  "userManagementPage": {
+    "title": "User Managment"
+  },
+  "whiteLabelPage": {
+    "title": "White Label"
+  },
+  "userForm": {
+    "information": "Information",
+    "customerId": "CUSTOMER ID",
+    "signupDate": "SIGNUP DATE",
+    "account": "ACCOUNT",
+    "loginEmail": "LOGIN EMAIL",
+    "primaryContact": "Primary Contact",
+    "primaryContactMessage": "Please provide your contact information bellow.",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "phoneNumber": "Phone Number",
+    "company": "Company",
+    "street": "Street",
+    "city": "City",
+    "zip": "Zip Code",
+    "country": "Country",
+    "website": "Website",
+    "validation": {
+      "firstNameRequired": "First Name is required!",
+      "lastNameRequired": "Last Name is required!",
+      "phoneRequired": "Phone number is required!",
+      "companyRequired": "Company Name is required!",
+      "streetRequired": "Street Name is required!",
+      "cityRequired": "City Name is required!",
+      "zipRequired": "Post Code is required!",
+      "countryRequired": "Country Name is required!",
+      "websiteRequired": "Website address is required!"
+    }
+  },
+  "userTypeForm": {
+    "title": "Who are you?",
+    "description": "For the best possible experience, please let us know who you are."
+  },
+  "userUsageForm": {
+    "scans": "SCANS",
+    "dynamicCodes": "DYNAMIC CODES",
+    "staticCodes": "STATIC CODES",
+    "users": "USERS",
+    "unlimited": "Unlimited",
+    "upgrade": "UPGRADE",
+    "usage": "Usage"
+  },
+  "emailChange": "Change Email",
+  "edit": "Edit",
+  "password": "Password",
+  "save": "Save",
+  "usageTitle": "Usage"
+}
