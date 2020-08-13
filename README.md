@@ -1,4 +1,4 @@
-# bujalos_egoditor_coding-challenge
+# bujalos_editor_coding-challenge
 
 Application build with vue and typescript.
 
